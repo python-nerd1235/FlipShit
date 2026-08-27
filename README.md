@@ -1,4 +1,4 @@
-# FlipShit
+# FlipStuff
 This is probably the stupidest thing I've created. A simple hello world program is 657 characters long. 
 There are seven commands in this language. There are no spaces between the commands, and all commands are three letters long.
   nul-Adds a single zero to the stack 
